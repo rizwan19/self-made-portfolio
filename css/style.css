@@ -42,7 +42,7 @@ p{
     text-decoration: none;
     border:none;
     padding:10px 20px;
-    background:linear-gradient(to right,yellow,  red);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(51,121,9,1) 0%, rgba(0,212,255,1) 74%);
     color:black;
     font-weight: 700;
     font-size: large;
